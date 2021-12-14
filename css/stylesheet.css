@@ -1,0 +1,22 @@
+/********************************* AÇIKLAMA SATIRI ctrl+ö ***************************/ 
+/* class -> .text-red {} */
+/* #id-bilgisi -> .text-red {}  */
+
+h1, h2, h3, h4, h5, h6 {
+    color: darkred;
+}
+
+
+
+p {
+    color: blueviolet;
+    font-size: 32px;
+}
+
+#first-art{
+    font-size: 45px;
+}
+
+.fs-25 {
+    font-size: 30px;
+}
