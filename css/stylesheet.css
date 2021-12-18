@@ -2,7 +2,7 @@
 /* class -> .text-red {} */
 /* #id-bilgisi -> .text-red {}  */
 
-h1, h2, h3, h4, h5, h6 {
+/******  h1, h2, h3, h4, h5, h6 {
     color: darkred;
 }
 
@@ -19,4 +19,4 @@ p {
 
 .fs-25 {
     font-size: 30px;
-}
+}   *******/
